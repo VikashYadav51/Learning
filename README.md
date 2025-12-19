@@ -1,2 +1,2 @@
 # Learning
-In this repository i want learn how to use Git &amp; Github
+In this repository i am learning how to use Git &amp; Github
